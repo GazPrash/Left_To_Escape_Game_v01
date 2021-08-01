@@ -415,7 +415,7 @@ def work_function():
     global money_now, day_counter
     money_now += 100
     day_counter += 1
-    events_input("You wroked and earned 100 Gold!\n\n")
+    events_input("You worked and earned 100 Gold!\n\n")
 
     money_counter_label.config(text=money_now)
     money_counter_label.update()
@@ -625,4 +625,3 @@ confirm_quickChara.place(relx=0.44, rely=0.15, relheight=0.036, relwidth=0.095)
 root.mainloop()
 
 # END~
-# POV: YOU ARE ANGRY AT ME FOR NOT USING OOPS
