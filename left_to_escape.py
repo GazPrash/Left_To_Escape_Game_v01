@@ -250,7 +250,7 @@ def store():
         if money_now >= 25000:
             label_purchased = Label(store_mainframe, text="You Purchased the Item!", fg="black", font="Avantgarde 10", bg = "white")
             label_purchased.place(relx = 0.282, rely = 0.9)
-            events_input("You a pruchased a big house in a nearby City's Suburban area! [Life +1]\n\n" )
+            events_input("You a pruchased a big house in a nearby City's Suburban area! [Life +2]\n\n" )
             store_mainframe.update()
             time.sleep(1)
             label_purchased.destroy()
@@ -269,7 +269,7 @@ def store():
         if money_now >= 55000:
             label_purchased = Label(store_mainframe, text="You Purchased the Item!", fg="black", font="Avantgarde 10", bg = "white")
             label_purchased.place(relx = 0.282, rely = 0.9)
-            events_input("You bought a Grade AA Protective Gear. [Life +2]\n\n")
+            events_input("You bought a Grade AA Protective Gear. [Life +3]\n\n")
             store_mainframe.update()
             time.sleep(1)
             label_purchased.destroy()
