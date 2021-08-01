@@ -10,5 +10,5 @@ Events are randomly generated scenarios, and you can use the 'New Evnet' to gene
 Each event is unique in it's own way, you will either swim in riches or get crushed by enemies. Check out the Store for some useful items and intresting collectibles.
 
 
-///NOTE: The theme for fonts and combobox used in the project are from RBENDE's Sun Valley TCL, check ou his project here : https://github.com/rdbende/Sun-Valley-ttk-theme
+///NOTE: The theme for fonts and combobox used in the project are from RBENDE's Sun Valley TCL, check out his project here : https://github.com/rdbende/Sun-Valley-ttk-theme
 
